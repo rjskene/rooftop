@@ -332,3 +332,6 @@ venv
 ENV
 .env
 .conda
+
+# Include
+!tx_schools.csv
