@@ -333,5 +333,17 @@ ENV
 .env
 .conda
 
+# Images
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.svg
+*.webp
+
 # Include
 !tx_schools.csv
