@@ -345,5 +345,8 @@ ENV
 *.svg
 *.webp
 
+# Other Files
+.geojson
+
 # Include
 !tx_schools.csv
